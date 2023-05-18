@@ -1,0 +1,5002 @@
+[
+	{
+		"vendedor": "Diana Firmino",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 632.28,
+		"desconto": 383.14,
+		"custo": 769.77,
+		"data": "22/06/2022"
+	},
+	{
+		"vendedor": "Sawyer Soares",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 240.13,
+		"desconto": 314.33,
+		"custo": 973.44,
+		"data": "13/06/2022"
+	},
+	{
+		"vendedor": "Adria Franca",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 204.74,
+		"desconto": 224.64,
+		"custo": "1,045.59",
+		"data": "15/09/2023"
+	},
+	{
+		"vendedor": "Michelle Duarte",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 332.52,
+		"desconto": 380.10,
+		"custo": 747.29,
+		"data": "04/07/2023"
+	},
+	{
+		"vendedor": "Xavier Magalhaes",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": "1,426.82",
+		"desconto": 181.89,
+		"custo": 98.62,
+		"data": "14/06/2022"
+	},
+	{
+		"vendedor": "Akeem Bispo",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 799.67,
+		"desconto": 255.91,
+		"custo": 910.72,
+		"data": "22/11/2022"
+	},
+	{
+		"vendedor": "Suki Vieira",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": 449.76,
+		"desconto": 239.57,
+		"custo": 773.83,
+		"data": "13/11/2022"
+	},
+	{
+		"vendedor": "Brendan Barboza",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": 621.12,
+		"desconto": 19.36,
+		"custo": 889.10,
+		"data": "01/09/2023"
+	},
+	{
+		"vendedor": "Yuli Silva",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 730.79,
+		"desconto": 341.86,
+		"custo": 189.64,
+		"data": "29/12/2023"
+	},
+	{
+		"vendedor": "Leigh da Luz",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 897.51,
+		"desconto": 131.39,
+		"custo": 715.24,
+		"data": "12/11/2023"
+	},
+	{
+		"vendedor": "April de Barros",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,438.08",
+		"desconto": 343.45,
+		"custo": 570.43,
+		"data": "11/06/2022"
+	},
+	{
+		"vendedor": "Shay Magalhaes",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 819.80,
+		"desconto": 52.61,
+		"custo": 668.26,
+		"data": "20/01/2024"
+	},
+	{
+		"vendedor": "Skyler Camargo",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,146.43",
+		"desconto": 11.84,
+		"custo": 362.43,
+		"data": "26/06/2022"
+	},
+	{
+		"vendedor": "Rigel Das Chagas",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,393.29",
+		"desconto": 239.96,
+		"custo": 439.29,
+		"data": "23/04/2023"
+	},
+	{
+		"vendedor": "Geraldine de Fatima",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 509.92,
+		"desconto": 383.33,
+		"custo": 839.75,
+		"data": "04/07/2023"
+	},
+	{
+		"vendedor": "Carson Duarte",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 126.16,
+		"desconto": 33.69,
+		"custo": 115.60,
+		"data": "06/07/2022"
+	},
+	{
+		"vendedor": "Lillian Inacio",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,151.67",
+		"desconto": 272.50,
+		"custo": 572.72,
+		"data": "02/01/2023"
+	},
+	{
+		"vendedor": "Janna de Santana",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,369.77",
+		"desconto": 385.90,
+		"custo": 291.57,
+		"data": "27/06/2023"
+	},
+	{
+		"vendedor": "Erin Magalhaes",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 640.68,
+		"desconto": 372.47,
+		"custo": 945.95,
+		"data": "03/01/2024"
+	},
+	{
+		"vendedor": "Shelby de Santana",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,008.03",
+		"desconto": 120.85,
+		"custo": 803.70,
+		"data": "07/03/2023"
+	},
+	{
+		"vendedor": "Alisa Sousa",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": 997.97,
+		"desconto": 46.82,
+		"custo": 403.25,
+		"data": "22/09/2023"
+	},
+	{
+		"vendedor": "Brock Machado",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": "1,286.38",
+		"desconto": 40.68,
+		"custo": 946.09,
+		"data": "21/09/2022"
+	},
+	{
+		"vendedor": "Jolene Borges",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 30,
+		"venda": 113.46,
+		"desconto": 46.78,
+		"custo": 206.67,
+		"data": "02/06/2022"
+	},
+	{
+		"vendedor": "Guy Caetano",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 504.91,
+		"desconto": 357.13,
+		"custo": 603.02,
+		"data": "09/08/2022"
+	},
+	{
+		"vendedor": "Cade Melo",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 338.21,
+		"desconto": 78.73,
+		"custo": 805.42,
+		"data": "18/06/2023"
+	},
+	{
+		"vendedor": "Guy Brandao",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,488.49",
+		"desconto": 288.64,
+		"custo": 833.02,
+		"data": "31/10/2022"
+	},
+	{
+		"vendedor": "Jordan Oliveira",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,308.83",
+		"desconto": 377.94,
+		"custo": 245.38,
+		"data": "16/08/2023"
+	},
+	{
+		"vendedor": "Clio de Freitas",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,110.53",
+		"desconto": 364.00,
+		"custo": 618.41,
+		"data": "10/08/2022"
+	},
+	{
+		"vendedor": "Kuame Souza",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 502.41,
+		"desconto": 327.42,
+		"custo": 853.69,
+		"data": "13/09/2022"
+	},
+	{
+		"vendedor": "Avye Messias",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": "1,154.79",
+		"desconto": 299.39,
+		"custo": 324.84,
+		"data": "14/10/2022"
+	},
+	{
+		"vendedor": "Luke Fagundes",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": 464.94,
+		"desconto": 340.63,
+		"custo": 666.45,
+		"data": "13/05/2023"
+	},
+	{
+		"vendedor": "Francis Das Gracas",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 902.83,
+		"desconto": 102.17,
+		"custo": 649.06,
+		"data": "03/09/2022"
+	},
+	{
+		"vendedor": "Jolene Ferraz",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,407.61",
+		"desconto": 6.65,
+		"custo": 100.96,
+		"data": "11/06/2023"
+	},
+	{
+		"vendedor": "Halla Braga",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": "1,154.29",
+		"desconto": 260.15,
+		"custo": 385.87,
+		"data": "22/11/2022"
+	},
+	{
+		"vendedor": "Hyatt de Lima",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 238.90,
+		"desconto": 179.64,
+		"custo": 908.77,
+		"data": "16/10/2022"
+	},
+	{
+		"vendedor": "Neve Candido",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": "1,302.41",
+		"desconto": 6.27,
+		"custo": 549.38,
+		"data": "21/12/2022"
+	},
+	{
+		"vendedor": "Howard Rocha",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 104.83,
+		"desconto": 111.96,
+		"custo": "1,029.56",
+		"data": "21/09/2022"
+	},
+	{
+		"vendedor": "Duncan Andrade",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": "1,391.85",
+		"desconto": 313.70,
+		"custo": 967.75,
+		"data": "28/12/2023"
+	},
+	{
+		"vendedor": "Althea Barros",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,006.09",
+		"desconto": 280.88,
+		"custo": 678.72,
+		"data": "29/05/2022"
+	},
+	{
+		"vendedor": "Germane Teles",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": "1,199.78",
+		"desconto": 63.02,
+		"custo": 211.59,
+		"data": "11/12/2023"
+	},
+	{
+		"vendedor": "Camilla de Sousa",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 567.13,
+		"desconto": 242.28,
+		"custo": 983.32,
+		"data": "02/11/2023"
+	},
+	{
+		"vendedor": "Hyatt Leite",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 565.26,
+		"desconto": 312.53,
+		"custo": 141.36,
+		"data": "02/08/2022"
+	},
+	{
+		"vendedor": "Mason Guimaraes",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 288.81,
+		"desconto": 301.60,
+		"custo": 112.96,
+		"data": "28/01/2024"
+	},
+	{
+		"vendedor": "Vladimir Carvalho",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 664.84,
+		"desconto": 95.71,
+		"custo": 751.13,
+		"data": "08/02/2023"
+	},
+	{
+		"vendedor": "Chanda Lemos",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,109.19",
+		"desconto": 125.41,
+		"custo": 897.13,
+		"data": "02/12/2023"
+	},
+	{
+		"vendedor": "Dacey Ramos",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,245.39",
+		"desconto": 243.20,
+		"custo": 516.80,
+		"data": "01/04/2023"
+	},
+	{
+		"vendedor": "Illana Siqueira",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,191.28",
+		"desconto": 155.60,
+		"custo": 347.59,
+		"data": "23/06/2022"
+	},
+	{
+		"vendedor": "Aphrodite Feitosa",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": "1,172.01",
+		"desconto": 150.31,
+		"custo": 673.61,
+		"data": "01/10/2023"
+	},
+	{
+		"vendedor": "Kerry Farias",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 687.63,
+		"desconto": 269.12,
+		"custo": 439.61,
+		"data": "27/01/2023"
+	},
+	{
+		"vendedor": "Len de Freitas",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": "1,362.79",
+		"desconto": 79.61,
+		"custo": 446.57,
+		"data": "27/08/2022"
+	},
+	{
+		"vendedor": "Maxwell Azevedo",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,071.19",
+		"desconto": 170.64,
+		"custo": 840.79,
+		"data": "04/01/2023"
+	},
+	{
+		"vendedor": "Marsden Ferraz",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": 436.10,
+		"desconto": 334.98,
+		"custo": 558.88,
+		"data": "08/04/2023"
+	},
+	{
+		"vendedor": "Sophia Viana",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": "1,150.33",
+		"desconto": 141.33,
+		"custo": 631.70,
+		"data": "23/11/2023"
+	},
+	{
+		"vendedor": "Harlan de Moura",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": "1,260.86",
+		"desconto": 65.59,
+		"custo": 656.94,
+		"data": "20/09/2022"
+	},
+	{
+		"vendedor": "Castor Aguiar",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 738.03,
+		"desconto": 176.34,
+		"custo": 542.57,
+		"data": "12/10/2023"
+	},
+	{
+		"vendedor": "Dennis Gomes",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 684.50,
+		"desconto": 174.55,
+		"custo": 903.05,
+		"data": "27/02/2024"
+	},
+	{
+		"vendedor": "Mary Cabral",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 859.49,
+		"desconto": 334.77,
+		"custo": 262.01,
+		"data": "13/11/2023"
+	},
+	{
+		"vendedor": "Idona Costa",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 762.29,
+		"desconto": 335.02,
+		"custo": 134.98,
+		"data": "29/09/2023"
+	},
+	{
+		"vendedor": "Cole Chagas",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,349.06",
+		"desconto": 234.53,
+		"custo": 261.41,
+		"data": "05/08/2023"
+	},
+	{
+		"vendedor": "Julian da Costa",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": 952.65,
+		"desconto": 304.97,
+		"custo": 247.73,
+		"data": "14/08/2023"
+	},
+	{
+		"vendedor": "Charissa Cavalcante",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 971.42,
+		"desconto": 247.35,
+		"custo": 164.25,
+		"data": "09/04/2023"
+	},
+	{
+		"vendedor": "Richard Nogueira",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 871.27,
+		"desconto": 151.75,
+		"custo": 633.74,
+		"data": "25/01/2023"
+	},
+	{
+		"vendedor": "Iola Ferraz",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,406.30",
+		"desconto": 344.99,
+		"custo": 701.08,
+		"data": "28/07/2022"
+	},
+	{
+		"vendedor": "Laurel Pires",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": "1,324.03",
+		"desconto": 232.46,
+		"custo": 247.46,
+		"data": "03/06/2022"
+	},
+	{
+		"vendedor": "Lacy de Santana",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 219.17,
+		"desconto": 43.42,
+		"custo": 410.54,
+		"data": "06/11/2023"
+	},
+	{
+		"vendedor": "Katelyn Domingos",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 376.00,
+		"desconto": 179.19,
+		"custo": 113.59,
+		"data": "15/04/2024"
+	},
+	{
+		"vendedor": "Aladdin Macedo",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": "1,156.07",
+		"desconto": 152.02,
+		"custo": 143.83,
+		"data": "26/09/2023"
+	},
+	{
+		"vendedor": "Harrison Vaz",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,201.53",
+		"desconto": 73.23,
+		"custo": 280.61,
+		"data": "20/03/2024"
+	},
+	{
+		"vendedor": "Brenna dos Santos",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 149.92,
+		"desconto": 188.30,
+		"custo": 220.49,
+		"data": "14/07/2022"
+	},
+	{
+		"vendedor": "Kirk Batista",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": "1,068.85",
+		"desconto": 372.62,
+		"custo": 418.96,
+		"data": "18/01/2023"
+	},
+	{
+		"vendedor": "Leroy de Carvalho",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 829.13,
+		"desconto": 359.40,
+		"custo": 988.09,
+		"data": "27/12/2023"
+	},
+	{
+		"vendedor": "Lucius Correa",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": 893.23,
+		"desconto": 378.60,
+		"custo": 286.74,
+		"data": "29/04/2024"
+	},
+	{
+		"vendedor": "Steel Mota",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": "1,430.06",
+		"desconto": 85.50,
+		"custo": 663.81,
+		"data": "10/09/2023"
+	},
+	{
+		"vendedor": "Kylan Inacio",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 920.27,
+		"desconto": 267.35,
+		"custo": "1,071.17",
+		"data": "15/12/2023"
+	},
+	{
+		"vendedor": "Tad de Moura",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": "1,178.91",
+		"desconto": 293.78,
+		"custo": 618.82,
+		"data": "26/06/2022"
+	},
+	{
+		"vendedor": "Pamela Oliveira",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 350.68,
+		"desconto": 301.62,
+		"custo": 418.45,
+		"data": "29/01/2023"
+	},
+	{
+		"vendedor": "Adele Oliveira",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 680.02,
+		"desconto": 140.02,
+		"custo": 338.59,
+		"data": "16/04/2024"
+	},
+	{
+		"vendedor": "Stone Coelho",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 573.62,
+		"desconto": 296.41,
+		"custo": 664.57,
+		"data": "20/03/2023"
+	},
+	{
+		"vendedor": "Deborah Mendonca",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 355.62,
+		"desconto": 158.29,
+		"custo": 703.71,
+		"data": "25/11/2023"
+	},
+	{
+		"vendedor": "Isaiah Pereira",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 443.14,
+		"desconto": 132.92,
+		"custo": 950.96,
+		"data": "15/08/2022"
+	},
+	{
+		"vendedor": "Quin Chaves",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 996.71,
+		"desconto": 8.64,
+		"custo": 969.31,
+		"data": "02/08/2022"
+	},
+	{
+		"vendedor": "Amos Bueno",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": "1,334.96",
+		"desconto": 377.59,
+		"custo": 968.57,
+		"data": "19/08/2023"
+	},
+	{
+		"vendedor": "Leandra Firmino",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,285.36",
+		"desconto": 226.13,
+		"custo": 736.86,
+		"data": "02/05/2023"
+	},
+	{
+		"vendedor": "Dexter Fernandes",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 863.24,
+		"desconto": 270.01,
+		"custo": "1,034.46",
+		"data": "20/05/2023"
+	},
+	{
+		"vendedor": "Violet Sousa",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,014.26",
+		"desconto": 78.65,
+		"custo": "1,123.97",
+		"data": "24/03/2023"
+	},
+	{
+		"vendedor": "Drew Lima",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 794.72,
+		"desconto": 154.42,
+		"custo": 384.14,
+		"data": "01/07/2023"
+	},
+	{
+		"vendedor": "Thane de Azevedo",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 873.09,
+		"desconto": 174.61,
+		"custo": 177.62,
+		"data": "05/09/2023"
+	},
+	{
+		"vendedor": "Kevin Paulino",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,456.14",
+		"desconto": 342.98,
+		"custo": 105.37,
+		"data": "12/04/2024"
+	},
+	{
+		"vendedor": "Pandora Cavalcante",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,026.71",
+		"desconto": 68.07,
+		"custo": 453.17,
+		"data": "27/10/2022"
+	},
+	{
+		"vendedor": "Nayda Teixeira",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 965.65,
+		"desconto": 286.33,
+		"custo": 683.23,
+		"data": "21/10/2022"
+	},
+	{
+		"vendedor": "Cooper Sántos",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": "1,399.68",
+		"desconto": 70.50,
+		"custo": 441.23,
+		"data": "09/07/2023"
+	},
+	{
+		"vendedor": "Oleg Faria",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": "1,106.75",
+		"desconto": 252.03,
+		"custo": 372.37,
+		"data": "13/11/2023"
+	},
+	{
+		"vendedor": "TaShya Siqueira",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 329.66,
+		"desconto": 111.60,
+		"custo": 750.14,
+		"data": "15/07/2022"
+	},
+	{
+		"vendedor": "Jelani Sántos",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 348.34,
+		"desconto": 387.49,
+		"custo": 431.14,
+		"data": "06/05/2022"
+	},
+	{
+		"vendedor": "Latifah Mendonca",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 471.92,
+		"desconto": 283.89,
+		"custo": 741.43,
+		"data": "28/09/2023"
+	},
+	{
+		"vendedor": "Erin da Costa",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": 708.92,
+		"desconto": 122.95,
+		"custo": 121.77,
+		"data": "01/05/2022"
+	},
+	{
+		"vendedor": "Jonah Pereira",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,014.45",
+		"desconto": 144.28,
+		"custo": 479.78,
+		"data": "18/07/2023"
+	},
+	{
+		"vendedor": "Mariko Marques",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,101.51",
+		"desconto": 359.23,
+		"custo": 872.61,
+		"data": "13/01/2023"
+	},
+	{
+		"vendedor": "Kyle Fonseca",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 889.16,
+		"desconto": 190.54,
+		"custo": 815.36,
+		"data": "08/04/2023"
+	},
+	{
+		"vendedor": "Melanie Feitosa",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 496.27,
+		"desconto": 47.56,
+		"custo": 197.76,
+		"data": "29/12/2022"
+	},
+	{
+		"vendedor": "Ingrid Bastos",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": 127.50,
+		"desconto": 379.78,
+		"custo": 375.07,
+		"data": "10/11/2022"
+	},
+	{
+		"vendedor": "Fay da Cruz",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 426.98,
+		"desconto": 267.55,
+		"custo": 570.86,
+		"data": "18/11/2022"
+	},
+	{
+		"vendedor": "Alan Cavalcante",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": "1,092.79",
+		"desconto": 220.44,
+		"custo": 636.90,
+		"data": "22/05/2023"
+	},
+	{
+		"vendedor": "Connor Campos",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": "1,275.53",
+		"desconto": 200.02,
+		"custo": 561.59,
+		"data": "14/05/2022"
+	},
+	{
+		"vendedor": "Cassandra Dantas",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": 106.81,
+		"desconto": 273.97,
+		"custo": 598.15,
+		"data": "16/03/2024"
+	},
+	{
+		"vendedor": "Belle Gonzaga",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 864.54,
+		"desconto": 208.30,
+		"custo": 444.89,
+		"data": "30/05/2023"
+	},
+	{
+		"vendedor": "Giacomo Leite",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 401.80,
+		"desconto": 198.69,
+		"custo": 224.27,
+		"data": "11/06/2023"
+	},
+	{
+		"vendedor": "Dahlia Trindade",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 883.36,
+		"desconto": 27.92,
+		"custo": "1,008.34",
+		"data": "18/06/2022"
+	},
+	{
+		"vendedor": "Adrienne Moreira",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,348.06",
+		"desconto": 266.08,
+		"custo": 152.93,
+		"data": "11/01/2024"
+	},
+	{
+		"vendedor": "Burke Sales",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 577.78,
+		"desconto": 382.74,
+		"custo": 543.60,
+		"data": "26/05/2022"
+	},
+	{
+		"vendedor": "Reese Trindade",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 377.62,
+		"desconto": 20.80,
+		"custo": 861.18,
+		"data": "27/11/2023"
+	},
+	{
+		"vendedor": "Holmes Machado",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,066.41",
+		"desconto": 127.88,
+		"custo": "1,128.26",
+		"data": "16/02/2024"
+	},
+	{
+		"vendedor": "Daryl Aguiar",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,481.66",
+		"desconto": 119.57,
+		"custo": 321.12,
+		"data": "10/09/2022"
+	},
+	{
+		"vendedor": "Sylvester Antunes",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": 669.45,
+		"desconto": 275.44,
+		"custo": 805.99,
+		"data": "24/06/2022"
+	},
+	{
+		"vendedor": "Jordan Furtado",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 283.76,
+		"desconto": 163.81,
+		"custo": 211.84,
+		"data": "02/07/2023"
+	},
+	{
+		"vendedor": "Hayes Das Dores",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,149.92",
+		"desconto": 302.11,
+		"custo": 178.44,
+		"data": "09/12/2022"
+	},
+	{
+		"vendedor": "Harlan Brito",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 449.25,
+		"desconto": 101.60,
+		"custo": 875.42,
+		"data": "12/02/2024"
+	},
+	{
+		"vendedor": "Audra Abreu",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": "1,160.56",
+		"desconto": 303.82,
+		"custo": 655.02,
+		"data": "17/06/2023"
+	},
+	{
+		"vendedor": "Lacy do Nascimento",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": "1,312.82",
+		"desconto": 281.25,
+		"custo": 996.88,
+		"data": "29/10/2023"
+	},
+	{
+		"vendedor": "Travis Gonçalves",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": "1,358.15",
+		"desconto": 27.79,
+		"custo": 162.18,
+		"data": "08/05/2023"
+	},
+	{
+		"vendedor": "Zelenia Candido",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": "1,051.96",
+		"desconto": 48.77,
+		"custo": 504.77,
+		"data": "03/04/2023"
+	},
+	{
+		"vendedor": "Nathaniel Machado",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 536.45,
+		"desconto": 205.18,
+		"custo": 949.88,
+		"data": "14/10/2022"
+	},
+	{
+		"vendedor": "Odette de Moura",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 503.15,
+		"desconto": 320.85,
+		"custo": 767.27,
+		"data": "11/02/2023"
+	},
+	{
+		"vendedor": "Dale Barbosa",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,211.08",
+		"desconto": 356.22,
+		"custo": 154.61,
+		"data": "14/04/2024"
+	},
+	{
+		"vendedor": "Doris Bezerra",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 949.65,
+		"desconto": 311.67,
+		"custo": 960.63,
+		"data": "31/07/2023"
+	},
+	{
+		"vendedor": "Tamara Pereira",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": "1,049.97",
+		"desconto": 312.78,
+		"custo": 823.30,
+		"data": "09/01/2024"
+	},
+	{
+		"vendedor": "Elton dos Reis",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,433.92",
+		"desconto": 209.55,
+		"custo": 126.04,
+		"data": "01/08/2022"
+	},
+	{
+		"vendedor": "Forrest Vasconcelos",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": "1,371.78",
+		"desconto": 337.61,
+		"custo": "1,125.71",
+		"data": "20/06/2023"
+	},
+	{
+		"vendedor": "Geoffrey Bueno",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 863.92,
+		"desconto": 99.10,
+		"custo": 282.76,
+		"data": "14/02/2023"
+	},
+	{
+		"vendedor": "Abigail Mendonca",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,154.11",
+		"desconto": 99.34,
+		"custo": "1,046.60",
+		"data": "22/06/2022"
+	},
+	{
+		"vendedor": "Noah Custodio",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,435.02",
+		"desconto": 116.38,
+		"custo": 498.30,
+		"data": "27/07/2023"
+	},
+	{
+		"vendedor": "Ian Medeiros",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,495.47",
+		"desconto": 84.21,
+		"custo": 470.98,
+		"data": "31/01/2024"
+	},
+	{
+		"vendedor": "Amir Cardoso",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": "1,419.72",
+		"desconto": 163.43,
+		"custo": 420.86,
+		"data": "29/07/2023"
+	},
+	{
+		"vendedor": "Germane Caetano",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 686.53,
+		"desconto": 261.94,
+		"custo": 604.57,
+		"data": "07/06/2023"
+	},
+	{
+		"vendedor": "Bruno de Freitas",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 649.68,
+		"desconto": 236.78,
+		"custo": 97.97,
+		"data": "06/04/2023"
+	},
+	{
+		"vendedor": "Tamara Cavalcante",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": "1,237.21",
+		"desconto": 376.70,
+		"custo": 570.87,
+		"data": "14/10/2023"
+	},
+	{
+		"vendedor": "Vladimir Leite",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": "1,407.37",
+		"desconto": 208.29,
+		"custo": 972.31,
+		"data": "27/11/2022"
+	},
+	{
+		"vendedor": "Sara de Oliveira",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 903.48,
+		"desconto": 12.25,
+		"custo": 479.36,
+		"data": "20/08/2022"
+	},
+	{
+		"vendedor": "Erasmus Henrique",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 699.43,
+		"desconto": 233.06,
+		"custo": 254.25,
+		"data": "09/05/2022"
+	},
+	{
+		"vendedor": "Gary Torres",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 300.43,
+		"desconto": 56.32,
+		"custo": 618.79,
+		"data": "27/09/2023"
+	},
+	{
+		"vendedor": "Benedict Pacheco",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": "1,236.17",
+		"desconto": 350.64,
+		"custo": 123.86,
+		"data": "18/07/2022"
+	},
+	{
+		"vendedor": "Germaine Marques",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": "1,213.42",
+		"desconto": 180.14,
+		"custo": 178.99,
+		"data": "30/11/2022"
+	},
+	{
+		"vendedor": "Libby Teixeira",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,008.99",
+		"desconto": 294.91,
+		"custo": 366.90,
+		"data": "01/07/2022"
+	},
+	{
+		"vendedor": "Olivia Garcia",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": "1,291.88",
+		"desconto": 269.16,
+		"custo": 597.76,
+		"data": "08/03/2023"
+	},
+	{
+		"vendedor": "Chester Ramos",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 594.13,
+		"desconto": 204.65,
+		"custo": 408.35,
+		"data": "20/03/2024"
+	},
+	{
+		"vendedor": "Kieran Alves",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": "1,292.05",
+		"desconto": 196.53,
+		"custo": 407.16,
+		"data": "07/03/2024"
+	},
+	{
+		"vendedor": "Perry Firmino",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": "1,290.08",
+		"desconto": 52.13,
+		"custo": 862.44,
+		"data": "24/09/2022"
+	},
+	{
+		"vendedor": "Bianca Aparecido",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": "1,494.71",
+		"desconto": 279.63,
+		"custo": 949.88,
+		"data": "03/08/2023"
+	},
+	{
+		"vendedor": "Emery Vaz",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 628.40,
+		"desconto": 305.28,
+		"custo": 115.03,
+		"data": "31/05/2023"
+	},
+	{
+		"vendedor": "Honorato da Luz",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": "1,415.87",
+		"desconto": 289.40,
+		"custo": 745.69,
+		"data": "26/12/2022"
+	},
+	{
+		"vendedor": "Thaddeus Santiago",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": "1,358.29",
+		"desconto": 145.18,
+		"custo": 413.39,
+		"data": "08/01/2023"
+	},
+	{
+		"vendedor": "Gretchen de Jesus",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 737.03,
+		"desconto": 357.41,
+		"custo": 484.99,
+		"data": "17/11/2022"
+	},
+	{
+		"vendedor": "Eric Reis",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": "1,102.78",
+		"desconto": 52.33,
+		"custo": 932.79,
+		"data": "16/08/2022"
+	},
+	{
+		"vendedor": "Kai Cunha",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 255.22,
+		"desconto": 278.38,
+		"custo": 487.61,
+		"data": "14/06/2022"
+	},
+	{
+		"vendedor": "Ferris Das Chagas",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,324.63",
+		"desconto": 330.22,
+		"custo": 899.65,
+		"data": "02/03/2023"
+	},
+	{
+		"vendedor": "Sheila Amaral",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": 393.89,
+		"desconto": 134.41,
+		"custo": 572.78,
+		"data": "27/12/2022"
+	},
+	{
+		"vendedor": "Phoebe de Santana",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 503.84,
+		"desconto": 17.21,
+		"custo": 356.18,
+		"data": "24/06/2023"
+	},
+	{
+		"vendedor": "Germane do Carmo",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 938.91,
+		"desconto": 24.68,
+		"custo": 569.15,
+		"data": "14/07/2023"
+	},
+	{
+		"vendedor": "Tyler da Rocha",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": "1,364.51",
+		"desconto": 74.23,
+		"custo": "1,030.09",
+		"data": "12/01/2023"
+	},
+	{
+		"vendedor": "Ronan de Jesus",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 584.75,
+		"desconto": 221.58,
+		"custo": 860.92,
+		"data": "08/09/2023"
+	},
+	{
+		"vendedor": "Claire Sousa",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 839.93,
+		"desconto": 2.19,
+		"custo": "1,119.59",
+		"data": "12/01/2024"
+	},
+	{
+		"vendedor": "Lane Macedo",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 857.36,
+		"desconto": 288.31,
+		"custo": 773.96,
+		"data": "15/01/2024"
+	},
+	{
+		"vendedor": "Chester de Brito",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 381.61,
+		"desconto": 318.08,
+		"custo": 931.63,
+		"data": "03/06/2022"
+	},
+	{
+		"vendedor": "Wanda Santana",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": "1,484.43",
+		"desconto": 242.20,
+		"custo": "1,018.24",
+		"data": "16/11/2022"
+	},
+	{
+		"vendedor": "Hasad da Silveira",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": "1,144.83",
+		"desconto": 7.68,
+		"custo": 873.01,
+		"data": "16/08/2022"
+	},
+	{
+		"vendedor": "Duncan Melo",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": "1,284.67",
+		"desconto": 121.40,
+		"custo": 882.09,
+		"data": "05/11/2022"
+	},
+	{
+		"vendedor": "Darrel da Rosa",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 174.21,
+		"desconto": 259.21,
+		"custo": 191.31,
+		"data": "23/02/2024"
+	},
+	{
+		"vendedor": "Skyler Ribeiro",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": 274.22,
+		"desconto": 34.69,
+		"custo": 944.39,
+		"data": "24/09/2023"
+	},
+	{
+		"vendedor": "Eleanor Fernandes",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 900.22,
+		"desconto": 335.37,
+		"custo": 478.41,
+		"data": "19/11/2022"
+	},
+	{
+		"vendedor": "Ciara Santos",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 624.99,
+		"desconto": 338.91,
+		"custo": 675.39,
+		"data": "12/06/2023"
+	},
+	{
+		"vendedor": "Dylan Barros",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 469.17,
+		"desconto": 84.89,
+		"custo": 647.90,
+		"data": "11/10/2023"
+	},
+	{
+		"vendedor": "Ivor Aguiar",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,151.78",
+		"desconto": 359.74,
+		"custo": 697.48,
+		"data": "13/08/2022"
+	},
+	{
+		"vendedor": "Tamekah Carneiro",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 476.32,
+		"desconto": 120.39,
+		"custo": "1,002.37",
+		"data": "01/07/2023"
+	},
+	{
+		"vendedor": "Bruce Teles",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": "1,339.97",
+		"desconto": 204.60,
+		"custo": 387.22,
+		"data": "20/06/2022"
+	},
+	{
+		"vendedor": "Sean Cavalcante",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 296.33,
+		"desconto": 116.65,
+		"custo": 230.15,
+		"data": "12/05/2022"
+	},
+	{
+		"vendedor": "Brynn Moraes",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": "1,277.18",
+		"desconto": 138.50,
+		"custo": 895.55,
+		"data": "31/08/2022"
+	},
+	{
+		"vendedor": "Jin Pinheiro",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": 207.79,
+		"desconto": 252.24,
+		"custo": 955.99,
+		"data": "13/04/2023"
+	},
+	{
+		"vendedor": "Jonah de Abreu",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": 133.38,
+		"desconto": 128.88,
+		"custo": 633.08,
+		"data": "09/05/2023"
+	},
+	{
+		"vendedor": "Darius Viana",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,464.41",
+		"desconto": 297.43,
+		"custo": 613.42,
+		"data": "09/02/2023"
+	},
+	{
+		"vendedor": "Rafael Nonato",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 114.74,
+		"desconto": 216.48,
+		"custo": 106.40,
+		"data": "01/01/2024"
+	},
+	{
+		"vendedor": "Kato Macedo",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 451.22,
+		"desconto": 387.35,
+		"custo": "1,042.16",
+		"data": "16/08/2023"
+	},
+	{
+		"vendedor": "Ferris Santos",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 669.45,
+		"desconto": 340.03,
+		"custo": 908.10,
+		"data": "10/08/2022"
+	},
+	{
+		"vendedor": "Tyler da Costa",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": "1,063.84",
+		"desconto": 284.83,
+		"custo": "1,038.10",
+		"data": "27/06/2022"
+	},
+	{
+		"vendedor": "Zachery Braz",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 431.60,
+		"desconto": 169.92,
+		"custo": 819.67,
+		"data": "17/03/2024"
+	},
+	{
+		"vendedor": "Jade Aguiar",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 301.41,
+		"desconto": 341.86,
+		"custo": 524.17,
+		"data": "26/05/2022"
+	},
+	{
+		"vendedor": "Colton Neves",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 857.12,
+		"desconto": 114.59,
+		"custo": "1,074.88",
+		"data": "15/05/2023"
+	},
+	{
+		"vendedor": "Knox Viana",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 146.93,
+		"desconto": 94.25,
+		"custo": 448.66,
+		"data": "01/08/2023"
+	},
+	{
+		"vendedor": "Mariam Batista",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 655.61,
+		"desconto": 81.11,
+		"custo": 644.13,
+		"data": "20/02/2024"
+	},
+	{
+		"vendedor": "Teagan Das Neves",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 481.27,
+		"desconto": 173.73,
+		"custo": 461.73,
+		"data": "30/12/2022"
+	},
+	{
+		"vendedor": "Sarah Castro",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": "1,125.43",
+		"desconto": 260.35,
+		"custo": "1,118.33",
+		"data": "05/04/2024"
+	},
+	{
+		"vendedor": "Chantale Peixoto",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 392.66,
+		"desconto": 282.71,
+		"custo": 871.17,
+		"data": "02/09/2023"
+	},
+	{
+		"vendedor": "Tallulah Das Neves",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 270.39,
+		"desconto": 250.10,
+		"custo": 573.51,
+		"data": "27/02/2023"
+	},
+	{
+		"vendedor": "Delilah de Azevedo",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 488.17,
+		"desconto": 288.48,
+		"custo": 620.94,
+		"data": "22/09/2023"
+	},
+	{
+		"vendedor": "Mechelle Henrique",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 403.64,
+		"desconto": 88.23,
+		"custo": 533.23,
+		"data": "06/04/2023"
+	},
+	{
+		"vendedor": "Georgia Castro",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,222.91",
+		"desconto": 124.01,
+		"custo": 538.74,
+		"data": "07/09/2022"
+	},
+	{
+		"vendedor": "Maite Ferreira",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,432.08",
+		"desconto": 139.37,
+		"custo": 620.25,
+		"data": "25/09/2022"
+	},
+	{
+		"vendedor": "Yasir de Melo",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": "1,496.85",
+		"desconto": 183.92,
+		"custo": "1,103.31",
+		"data": "21/11/2022"
+	},
+	{
+		"vendedor": "Judah Caetano",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 711.99,
+		"desconto": 2.25,
+		"custo": 647.01,
+		"data": "16/06/2022"
+	},
+	{
+		"vendedor": "Gannon de Lourdes",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": 434.47,
+		"desconto": 315.52,
+		"custo": 895.98,
+		"data": "01/07/2022"
+	},
+	{
+		"vendedor": "Guy Teles",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": 740.82,
+		"desconto": 201.89,
+		"custo": 317.70,
+		"data": "18/01/2024"
+	},
+	{
+		"vendedor": "Amethyst Das Gracas",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": "1,393.86",
+		"desconto": 195.82,
+		"custo": 604.52,
+		"data": "13/03/2024"
+	},
+	{
+		"vendedor": "Garrett Mariano",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,438.93",
+		"desconto": 51.95,
+		"custo": 726.21,
+		"data": "19/04/2024"
+	},
+	{
+		"vendedor": "Kim Das Neves",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,066.79",
+		"desconto": 109.46,
+		"custo": "1,084.92",
+		"data": "05/05/2022"
+	},
+	{
+		"vendedor": "Akeem Gomes",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 490.53,
+		"desconto": 79.35,
+		"custo": "1,092.00",
+		"data": "11/02/2024"
+	},
+	{
+		"vendedor": "Branden de Fatima",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 413.76,
+		"desconto": 384.77,
+		"custo": "1,046.56",
+		"data": "15/03/2023"
+	},
+	{
+		"vendedor": "Myra Aparecido",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 741.17,
+		"desconto": 261.27,
+		"custo": 774.37,
+		"data": "25/03/2024"
+	},
+	{
+		"vendedor": "Cara Diniz",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,313.77",
+		"desconto": 185.24,
+		"custo": 476.52,
+		"data": "17/02/2023"
+	},
+	{
+		"vendedor": "Thane Chaves",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,320.15",
+		"desconto": 213.78,
+		"custo": 677.19,
+		"data": "22/09/2022"
+	},
+	{
+		"vendedor": "Keefe Guedes",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": "1,417.24",
+		"desconto": 346.64,
+		"custo": 166.67,
+		"data": "28/09/2023"
+	},
+	{
+		"vendedor": "Caleb de Lourdes",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 410.86,
+		"desconto": 98.32,
+		"custo": 276.70,
+		"data": "08/03/2024"
+	},
+	{
+		"vendedor": "Dennis de Assis",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 485.05,
+		"desconto": 235.47,
+		"custo": "1,047.28",
+		"data": "17/12/2022"
+	},
+	{
+		"vendedor": "Josiah Garcia",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,419.81",
+		"desconto": 340.37,
+		"custo": 668.08,
+		"data": "18/04/2023"
+	},
+	{
+		"vendedor": "Emerson da Silva",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 269.93,
+		"desconto": 353.84,
+		"custo": 558.12,
+		"data": "06/02/2023"
+	},
+	{
+		"vendedor": "Desiree Barbosa",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 302.09,
+		"desconto": 334.45,
+		"custo": 973.28,
+		"data": "17/07/2022"
+	},
+	{
+		"vendedor": "Illana Trindade",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,384.35",
+		"desconto": 41.08,
+		"custo": 955.25,
+		"data": "22/06/2022"
+	},
+	{
+		"vendedor": "Jaquelyn Dutra",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 549.56,
+		"desconto": 263.25,
+		"custo": 415.25,
+		"data": "03/04/2023"
+	},
+	{
+		"vendedor": "Dillon Almeida",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 558.30,
+		"desconto": 338.44,
+		"custo": 904.76,
+		"data": "13/05/2023"
+	},
+	{
+		"vendedor": "Coby Machado",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 535.96,
+		"desconto": 84.69,
+		"custo": 356.96,
+		"data": "18/06/2023"
+	},
+	{
+		"vendedor": "Bree de Melo",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 606.15,
+		"desconto": 165.98,
+		"custo": "1,116.33",
+		"data": "03/12/2022"
+	},
+	{
+		"vendedor": "Phyllis Melo",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 155.77,
+		"desconto": 307.39,
+		"custo": 191.73,
+		"data": "10/11/2023"
+	},
+	{
+		"vendedor": "Vladimir de Matos",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 838.19,
+		"desconto": 11.21,
+		"custo": "1,012.32",
+		"data": "26/01/2023"
+	},
+	{
+		"vendedor": "Kimberly Ribeiro",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": 525.96,
+		"desconto": 324.31,
+		"custo": 717.75,
+		"data": "09/03/2024"
+	},
+	{
+		"vendedor": "Kermit do Carmo",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 340.50,
+		"desconto": 159.53,
+		"custo": 742.91,
+		"data": "01/10/2022"
+	},
+	{
+		"vendedor": "Felicia Gonçalves",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,332.42",
+		"desconto": 158.43,
+		"custo": 481.01,
+		"data": "29/01/2024"
+	},
+	{
+		"vendedor": "Marvin Mariano",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 257.08,
+		"desconto": 138.38,
+		"custo": 811.92,
+		"data": "05/03/2023"
+	},
+	{
+		"vendedor": "Demetrius Franca",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": "1,327.95",
+		"desconto": 18.29,
+		"custo": 755.87,
+		"data": "05/07/2022"
+	},
+	{
+		"vendedor": "Joelle Lopes",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 789.17,
+		"desconto": 288.99,
+		"custo": 286.36,
+		"data": "20/06/2022"
+	},
+	{
+		"vendedor": "Whilemina de Fatima",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,479.28",
+		"desconto": 121.05,
+		"custo": 787.09,
+		"data": "23/06/2022"
+	},
+	{
+		"vendedor": "Neve Magalhaes",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,095.15",
+		"desconto": 68.88,
+		"custo": 677.30,
+		"data": "11/10/2022"
+	},
+	{
+		"vendedor": "Zephania de Azevedo",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": "1,273.95",
+		"desconto": 67.58,
+		"custo": 481.86,
+		"data": "28/09/2023"
+	},
+	{
+		"vendedor": "Hayfa de Moura",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 235.18,
+		"desconto": 209.51,
+		"custo": 353.90,
+		"data": "26/07/2022"
+	},
+	{
+		"vendedor": "Nyssa de Andrade",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 810.27,
+		"desconto": 5.96,
+		"custo": 293.27,
+		"data": "02/11/2022"
+	},
+	{
+		"vendedor": "Cedric Santiago",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 701.70,
+		"desconto": 372.36,
+		"custo": 611.20,
+		"data": "10/02/2024"
+	},
+	{
+		"vendedor": "Tanek Menezes",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 626.96,
+		"desconto": 59.56,
+		"custo": 626.20,
+		"data": "07/02/2024"
+	},
+	{
+		"vendedor": "Leo Bispo",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 303.32,
+		"desconto": 70.59,
+		"custo": 927.18,
+		"data": "08/01/2023"
+	},
+	{
+		"vendedor": "Zenia da Silveira",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 148.97,
+		"desconto": 101.20,
+		"custo": "1,133.97",
+		"data": "27/05/2023"
+	},
+	{
+		"vendedor": "Sonya Mendonca",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 878.44,
+		"desconto": 345.96,
+		"custo": "1,039.79",
+		"data": "23/04/2024"
+	},
+	{
+		"vendedor": "Xena Melo",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 557.60,
+		"desconto": 193.73,
+		"custo": 294.35,
+		"data": "20/03/2023"
+	},
+	{
+		"vendedor": "Heather Mota",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 109.62,
+		"desconto": 185.90,
+		"custo": 611.59,
+		"data": "24/07/2022"
+	},
+	{
+		"vendedor": "Kylan Domingues",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,038.79",
+		"desconto": 249.18,
+		"custo": 705.54,
+		"data": "29/06/2023"
+	},
+	{
+		"vendedor": "Dexter Alves",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 821.98,
+		"desconto": 353.51,
+		"custo": "1,068.56",
+		"data": "12/05/2022"
+	},
+	{
+		"vendedor": "Lesley Pinheiro",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 30,
+		"venda": "1,156.16",
+		"desconto": 138.94,
+		"custo": 679.13,
+		"data": "20/05/2023"
+	},
+	{
+		"vendedor": "Francesca Martins",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,477.07",
+		"desconto": 216.28,
+		"custo": 954.33,
+		"data": "16/07/2022"
+	},
+	{
+		"vendedor": "Emmanuel Chagas",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": "1,059.67",
+		"desconto": 36.73,
+		"custo": 828.27,
+		"data": "31/01/2023"
+	},
+	{
+		"vendedor": "Tanner Sousa",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 499.95,
+		"desconto": 15.01,
+		"custo": 842.35,
+		"data": "01/04/2024"
+	},
+	{
+		"vendedor": "Yuli Sousa",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": 681.00,
+		"desconto": 338.56,
+		"custo": 542.75,
+		"data": "14/08/2022"
+	},
+	{
+		"vendedor": "Halla Lemos",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": "1,038.44",
+		"desconto": 123.89,
+		"custo": 746.88,
+		"data": "21/11/2023"
+	},
+	{
+		"vendedor": "Kaseem Candido",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 204.74,
+		"desconto": 221.73,
+		"custo": 757.79,
+		"data": "22/10/2022"
+	},
+	{
+		"vendedor": "Laura Cardoso",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": "1,305.70",
+		"desconto": 159.36,
+		"custo": 840.68,
+		"data": "16/05/2022"
+	},
+	{
+		"vendedor": "Brian Andrade",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 846.31,
+		"desconto": 326.35,
+		"custo": 462.23,
+		"data": "28/08/2023"
+	},
+	{
+		"vendedor": "Abraham da Luz",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": 768.17,
+		"desconto": 297.53,
+		"custo": 505.01,
+		"data": "26/10/2023"
+	},
+	{
+		"vendedor": "Florence Correa",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": "1,153.49",
+		"desconto": 365.68,
+		"custo": 488.46,
+		"data": "29/07/2022"
+	},
+	{
+		"vendedor": "Nash Gonzaga",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 483.92,
+		"desconto": 62.58,
+		"custo": 726.50,
+		"data": "14/11/2022"
+	},
+	{
+		"vendedor": "Dorian Galdino",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 801.64,
+		"desconto": 33.28,
+		"custo": 655.98,
+		"data": "05/08/2022"
+	},
+	{
+		"vendedor": "Piper Matos",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,336.63",
+		"desconto": 187.99,
+		"custo": 822.91,
+		"data": "29/11/2023"
+	},
+	{
+		"vendedor": "Ralph Monteiro",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": "1,092.97",
+		"desconto": 64.38,
+		"custo": 137.11,
+		"data": "17/12/2022"
+	},
+	{
+		"vendedor": "Lana Marinho",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 323.15,
+		"desconto": 108.97,
+		"custo": 906.06,
+		"data": "13/07/2023"
+	},
+	{
+		"vendedor": "Theodore Sales",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,365.30",
+		"desconto": 378.09,
+		"custo": 117.58,
+		"data": "11/03/2024"
+	},
+	{
+		"vendedor": "Timothy Rocha",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": "1,371.03",
+		"desconto": 65.54,
+		"custo": 404.53,
+		"data": "14/01/2024"
+	},
+	{
+		"vendedor": "Dexter de Jesus",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": 729.55,
+		"desconto": 104.75,
+		"custo": 353.20,
+		"data": "08/11/2023"
+	},
+	{
+		"vendedor": "Samson Viana",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 759.64,
+		"desconto": 281.13,
+		"custo": 248.84,
+		"data": "17/08/2022"
+	},
+	{
+		"vendedor": "Kenyon Cavalcante",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 809.55,
+		"desconto": 371.21,
+		"custo": 560.39,
+		"data": "11/11/2023"
+	},
+	{
+		"vendedor": "Bryar Bastos",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": 549.36,
+		"desconto": 331.43,
+		"custo": "1,008.84",
+		"data": "23/07/2023"
+	},
+	{
+		"vendedor": "Bert Bueno",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": "1,491.12",
+		"desconto": 282.15,
+		"custo": 920.57,
+		"data": "26/02/2023"
+	},
+	{
+		"vendedor": "Jordan Farias",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 645.73,
+		"desconto": 279.68,
+		"custo": 912.97,
+		"data": "07/09/2022"
+	},
+	{
+		"vendedor": "Zeph Feitosa",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,343.81",
+		"desconto": 156.88,
+		"custo": 855.84,
+		"data": "24/07/2022"
+	},
+	{
+		"vendedor": "Yardley Teles",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 336.37,
+		"desconto": 241.33,
+		"custo": 692.58,
+		"data": "18/09/2023"
+	},
+	{
+		"vendedor": "Hayfa Guimaraes",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": "1,421.88",
+		"desconto": 109.24,
+		"custo": "1,069.17",
+		"data": "01/11/2023"
+	},
+	{
+		"vendedor": "Shaine Magalhaes",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": "1,436.62",
+		"desconto": 208.31,
+		"custo": 359.35,
+		"data": "22/03/2024"
+	},
+	{
+		"vendedor": "Kameko da Silva",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 725.66,
+		"desconto": 176.34,
+		"custo": 534.80,
+		"data": "01/05/2022"
+	},
+	{
+		"vendedor": "Hamilton Bueno",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 30,
+		"venda": "1,104.07",
+		"desconto": "0.58",
+		"custo": 329.34,
+		"data": "09/06/2022"
+	},
+	{
+		"vendedor": "Whoopi Paulino",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 352.09,
+		"desconto": 38.27,
+		"custo": 850.04,
+		"data": "19/02/2024"
+	},
+	{
+		"vendedor": "Destiny Coelho",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 220.51,
+		"desconto": 190.33,
+		"custo": 500.79,
+		"data": "23/05/2023"
+	},
+	{
+		"vendedor": "Teegan de Paula",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,386.95",
+		"desconto": 251.92,
+		"custo": 652.69,
+		"data": "29/04/2023"
+	},
+	{
+		"vendedor": "Mona da Rosa",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 258.39,
+		"desconto": 268.84,
+		"custo": 762.76,
+		"data": "18/09/2023"
+	},
+	{
+		"vendedor": "Elijah de Matos",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,121.40",
+		"desconto": 163.12,
+		"custo": 817.92,
+		"data": "10/10/2023"
+	},
+	{
+		"vendedor": "Lucius da Cruz",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 412.10,
+		"desconto": 90.39,
+		"custo": 246.72,
+		"data": "13/07/2023"
+	},
+	{
+		"vendedor": "Francesca Melo",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": 935.09,
+		"desconto": 114.85,
+		"custo": 974.79,
+		"data": "22/01/2023"
+	},
+	{
+		"vendedor": "Celeste Figueiredo",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": 297.56,
+		"desconto": 17.05,
+		"custo": 167.62,
+		"data": "22/03/2024"
+	},
+	{
+		"vendedor": "Lane Cardoso",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": 140.45,
+		"desconto": 315.90,
+		"custo": 122.32,
+		"data": "07/01/2023"
+	},
+	{
+		"vendedor": "Amelia Nunes",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": 549.61,
+		"desconto": "0.11",
+		"custo": 386.43,
+		"data": "15/05/2023"
+	},
+	{
+		"vendedor": "Selma Barboza",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": 575.73,
+		"desconto": 345.21,
+		"custo": 517.30,
+		"data": "19/07/2023"
+	},
+	{
+		"vendedor": "Alexandra Gonçalves",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 472.57,
+		"desconto": 100.74,
+		"custo": 378.26,
+		"data": "07/05/2022"
+	},
+	{
+		"vendedor": "Benedict Das Chagas",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 967.20,
+		"desconto": 253.59,
+		"custo": 926.62,
+		"data": "01/12/2023"
+	},
+	{
+		"vendedor": "Gary Furtado",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": "1,152.95",
+		"desconto": 23.14,
+		"custo": 426.55,
+		"data": "19/03/2023"
+	},
+	{
+		"vendedor": "Petra Medeiros",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,104.87",
+		"desconto": 199.06,
+		"custo": 859.19,
+		"data": "15/11/2022"
+	},
+	{
+		"vendedor": "Alfreda Aguiar",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": "1,058.43",
+		"desconto": 371.38,
+		"custo": 642.00,
+		"data": "31/10/2023"
+	},
+	{
+		"vendedor": "Omar de Carvalho",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 311.14,
+		"desconto": 191.33,
+		"custo": 954.50,
+		"data": "31/08/2022"
+	},
+	{
+		"vendedor": "Tyrone Teixeira",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 390.10,
+		"desconto": 192.49,
+		"custo": 700.43,
+		"data": "06/07/2023"
+	},
+	{
+		"vendedor": "Justina Santiago",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 220.81,
+		"desconto": 105.24,
+		"custo": 616.98,
+		"data": "19/03/2024"
+	},
+	{
+		"vendedor": "Kamal Campos",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": "1,301.09",
+		"desconto": 220.60,
+		"custo": 333.08,
+		"data": "10/12/2023"
+	},
+	{
+		"vendedor": "Dustin Rocha",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 857.79,
+		"desconto": 372.82,
+		"custo": 286.47,
+		"data": "21/01/2023"
+	},
+	{
+		"vendedor": "Nomlanga Queiroz",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 920.70,
+		"desconto": 222.24,
+		"custo": 609.99,
+		"data": "15/11/2022"
+	},
+	{
+		"vendedor": "Brady de Paula",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": "1,057.38",
+		"desconto": 163.31,
+		"custo": 480.58,
+		"data": "30/05/2022"
+	},
+	{
+		"vendedor": "Zeph Braga",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,051.50",
+		"desconto": 375.06,
+		"custo": 678.21,
+		"data": "01/06/2023"
+	},
+	{
+		"vendedor": "Quyn de Araujo",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": 531.04,
+		"desconto": 9.42,
+		"custo": 721.61,
+		"data": "14/07/2023"
+	},
+	{
+		"vendedor": "Theodore Domingues",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": "1,060.52",
+		"desconto": 194.86,
+		"custo": "1,028.61",
+		"data": "02/06/2023"
+	},
+	{
+		"vendedor": "Keelie Chaves",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,079.96",
+		"desconto": 318.88,
+		"custo": 297.48,
+		"data": "07/12/2023"
+	},
+	{
+		"vendedor": "Frances Diniz",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": 571.02,
+		"desconto": 238.62,
+		"custo": "1,009.59",
+		"data": "17/06/2023"
+	},
+	{
+		"vendedor": "Harding Barros",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 244.41,
+		"desconto": 256.78,
+		"custo": 591.78,
+		"data": "04/10/2023"
+	},
+	{
+		"vendedor": "Marvin Viana",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 607.68,
+		"desconto": 263.78,
+		"custo": 764.16,
+		"data": "02/06/2023"
+	},
+	{
+		"vendedor": "Allen da Conceiçao",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": 949.09,
+		"desconto": 251.45,
+		"custo": 354.49,
+		"data": "22/05/2022"
+	},
+	{
+		"vendedor": "Amos Camargo",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 988.74,
+		"desconto": 203.93,
+		"custo": 956.74,
+		"data": "17/06/2022"
+	},
+	{
+		"vendedor": "Veronica Morais",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 577.50,
+		"desconto": 58.42,
+		"custo": 202.30,
+		"data": "18/07/2023"
+	},
+	{
+		"vendedor": "Aristotle Xavier",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": "1,225.84",
+		"desconto": 107.83,
+		"custo": 466.87,
+		"data": "02/03/2024"
+	},
+	{
+		"vendedor": "Evan Vieira",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,345.92",
+		"desconto": 134.61,
+		"custo": "1,059.23",
+		"data": "16/08/2023"
+	},
+	{
+		"vendedor": "Philip Leite",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": "1,144.86",
+		"desconto": 27.44,
+		"custo": 796.55,
+		"data": "15/05/2022"
+	},
+	{
+		"vendedor": "Jamalia Maia",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": "1,212.36",
+		"desconto": 380.45,
+		"custo": 795.78,
+		"data": "28/01/2023"
+	},
+	{
+		"vendedor": "Shaine Bueno",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 704.47,
+		"desconto": 91.94,
+		"custo": 322.58,
+		"data": "31/07/2022"
+	},
+	{
+		"vendedor": "Maxwell da Luz",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": "1,267.26",
+		"desconto": 233.74,
+		"custo": 927.16,
+		"data": "07/06/2022"
+	},
+	{
+		"vendedor": "Rogan Silva",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 628.22,
+		"desconto": 389.49,
+		"custo": 950.36,
+		"data": "04/08/2022"
+	},
+	{
+		"vendedor": "Jermaine Pereira",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 863.16,
+		"desconto": 50.40,
+		"custo": 165.93,
+		"data": "10/06/2023"
+	},
+	{
+		"vendedor": "Guinevere Mendes",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": 872.23,
+		"desconto": 257.85,
+		"custo": 700.44,
+		"data": "27/09/2022"
+	},
+	{
+		"vendedor": "Micah de Melo",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": "1,407.34",
+		"desconto": 173.46,
+		"custo": 909.19,
+		"data": "15/03/2024"
+	},
+	{
+		"vendedor": "Bryar Simoes",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 681.24,
+		"desconto": 257.67,
+		"custo": 219.81,
+		"data": "28/10/2023"
+	},
+	{
+		"vendedor": "Harrison Azevedo",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": "1,369.12",
+		"desconto": 128.16,
+		"custo": 608.76,
+		"data": "26/07/2023"
+	},
+	{
+		"vendedor": "Ivana Abreu",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 265.25,
+		"desconto": 331.88,
+		"custo": 986.99,
+		"data": "24/04/2023"
+	},
+	{
+		"vendedor": "Armando Lima",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 605.68,
+		"desconto": 211.03,
+		"custo": 905.46,
+		"data": "20/07/2022"
+	},
+	{
+		"vendedor": "Charity Barreto",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 913.35,
+		"desconto": 305.29,
+		"custo": 240.15,
+		"data": "12/09/2022"
+	},
+	{
+		"vendedor": "Anne da Rocha",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": "1,133.30",
+		"desconto": 110.66,
+		"custo": 696.35,
+		"data": "06/01/2023"
+	},
+	{
+		"vendedor": "Benedict de Paula",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": "1,467.16",
+		"desconto": 141.55,
+		"custo": 668.12,
+		"data": "01/01/2024"
+	},
+	{
+		"vendedor": "Rhonda Garcia",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,331.75",
+		"desconto": 308.37,
+		"custo": 704.08,
+		"data": "03/10/2022"
+	},
+	{
+		"vendedor": "Ezra Moreira",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": "1,436.05",
+		"desconto": 361.51,
+		"custo": 824.09,
+		"data": "30/04/2022"
+	},
+	{
+		"vendedor": "Karly Araujo",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 322.48,
+		"desconto": 123.53,
+		"custo": 595.80,
+		"data": "06/11/2022"
+	},
+	{
+		"vendedor": "Ainsley da Costa",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": "1,118.28",
+		"desconto": 162.92,
+		"custo": 956.51,
+		"data": "23/11/2022"
+	},
+	{
+		"vendedor": "Patrick Moreira",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": "1,424.70",
+		"desconto": 347.66,
+		"custo": 141.25,
+		"data": "18/01/2023"
+	},
+	{
+		"vendedor": "Camille Ferraz",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,026.14",
+		"desconto": 265.09,
+		"custo": 923.27,
+		"data": "21/12/2023"
+	},
+	{
+		"vendedor": "Quynn Messias",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 954.96,
+		"desconto": 294.26,
+		"custo": 614.87,
+		"data": "28/09/2022"
+	},
+	{
+		"vendedor": "Reuben Fernandes",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": "1,338.21",
+		"desconto": 49.45,
+		"custo": 162.07,
+		"data": "08/03/2024"
+	},
+	{
+		"vendedor": "Dieter Xavier",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 457.85,
+		"desconto": 333.37,
+		"custo": 556.47,
+		"data": "27/04/2024"
+	},
+	{
+		"vendedor": "Igor de Campos",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 714.25,
+		"desconto": 137.33,
+		"custo": 146.94,
+		"data": "21/05/2023"
+	},
+	{
+		"vendedor": "Barrett Neves",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 306.27,
+		"desconto": 114.63,
+		"custo": 97.47,
+		"data": "14/03/2023"
+	},
+	{
+		"vendedor": "Leandra Maia",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 959.26,
+		"desconto": 294.02,
+		"custo": 123.83,
+		"data": "28/07/2023"
+	},
+	{
+		"vendedor": "Malcolm Silva",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": "1,273.01",
+		"desconto": 75.79,
+		"custo": 541.97,
+		"data": "12/06/2022"
+	},
+	{
+		"vendedor": "Kelsie Queiroz",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 923.83,
+		"desconto": 364.46,
+		"custo": 758.50,
+		"data": "31/03/2023"
+	},
+	{
+		"vendedor": "Travis Bispo",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": "1,185.23",
+		"desconto": 136.84,
+		"custo": 196.48,
+		"data": "17/08/2023"
+	},
+	{
+		"vendedor": "Noah Das Neves",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,160.77",
+		"desconto": 71.22,
+		"custo": 325.96,
+		"data": "27/09/2023"
+	},
+	{
+		"vendedor": "Hadassah Torres",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": 742.36,
+		"desconto": 49.63,
+		"custo": 549.05,
+		"data": "19/08/2023"
+	},
+	{
+		"vendedor": "Constance Furtado",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,004.82",
+		"desconto": 14.81,
+		"custo": 654.67,
+		"data": "17/08/2022"
+	},
+	{
+		"vendedor": "Eaton de Freitas",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 637.11,
+		"desconto": 325.15,
+		"custo": 92.46,
+		"data": "01/03/2024"
+	},
+	{
+		"vendedor": "Ruth da Rocha",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 808.31,
+		"desconto": 307.37,
+		"custo": 998.53,
+		"data": "01/02/2024"
+	},
+	{
+		"vendedor": "Lois Rosa",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 286.63,
+		"desconto": 159.34,
+		"custo": 428.70,
+		"data": "09/02/2024"
+	},
+	{
+		"vendedor": "Jescie Correa",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": 827.53,
+		"desconto": 359.06,
+		"custo": 160.74,
+		"data": "12/05/2023"
+	},
+	{
+		"vendedor": "Hayfa Barreto",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 413.47,
+		"desconto": 261.10,
+		"custo": 287.15,
+		"data": "12/09/2022"
+	},
+	{
+		"vendedor": "Avram Custodio",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": 870.46,
+		"desconto": 280.00,
+		"custo": 712.95,
+		"data": "19/09/2023"
+	},
+	{
+		"vendedor": "Amy Dutra",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 712.10,
+		"desconto": 40.34,
+		"custo": 161.89,
+		"data": "01/02/2023"
+	},
+	{
+		"vendedor": "Kermit Simoes",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 764.27,
+		"desconto": 320.50,
+		"custo": 130.84,
+		"data": "15/07/2022"
+	},
+	{
+		"vendedor": "Sybill Silveira",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 543.65,
+		"desconto": 224.04,
+		"custo": 504.60,
+		"data": "20/01/2024"
+	},
+	{
+		"vendedor": "Gemma Teodoro",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 781.77,
+		"desconto": 358.29,
+		"custo": 219.68,
+		"data": "23/01/2024"
+	},
+	{
+		"vendedor": "Josiah Correa",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 619.33,
+		"desconto": 8.20,
+		"custo": 845.05,
+		"data": "03/10/2023"
+	},
+	{
+		"vendedor": "Melissa de Lima",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 475.22,
+		"desconto": 246.11,
+		"custo": 214.55,
+		"data": "23/02/2024"
+	},
+	{
+		"vendedor": "Felicia Santos",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 543.82,
+		"desconto": 39.80,
+		"custo": 144.65,
+		"data": "16/01/2024"
+	},
+	{
+		"vendedor": "Quail Bispo",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 344.24,
+		"desconto": 370.03,
+		"custo": 942.60,
+		"data": "11/04/2023"
+	},
+	{
+		"vendedor": "Jameson Magalhaes",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 170.85,
+		"desconto": 388.94,
+		"custo": 601.23,
+		"data": "21/02/2023"
+	},
+	{
+		"vendedor": "Lucy Soares",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": "1,425.93",
+		"desconto": 96.45,
+		"custo": 982.62,
+		"data": "09/06/2023"
+	},
+	{
+		"vendedor": "Hoyt Matos",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": "1,302.64",
+		"desconto": 36.84,
+		"custo": 738.72,
+		"data": "26/08/2023"
+	},
+	{
+		"vendedor": "Herrod Domingues",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 968.25,
+		"desconto": 151.87,
+		"custo": 412.86,
+		"data": "01/05/2022"
+	},
+	{
+		"vendedor": "Lilah Pereira",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 859.43,
+		"desconto": 312.08,
+		"custo": 258.55,
+		"data": "17/09/2022"
+	},
+	{
+		"vendedor": "Morgan Nogueira",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 818.56,
+		"desconto": 152.31,
+		"custo": 122.75,
+		"data": "22/03/2023"
+	},
+	{
+		"vendedor": "Carson Bueno",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": "1,202.06",
+		"desconto": 338.93,
+		"custo": 195.06,
+		"data": "13/05/2023"
+	},
+	{
+		"vendedor": "Macey de Castro",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 810.23,
+		"desconto": 305.25,
+		"custo": 290.18,
+		"data": "24/10/2023"
+	},
+	{
+		"vendedor": "Alma de Abreu",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": 326.41,
+		"desconto": 215.71,
+		"custo": "1,122.70",
+		"data": "06/07/2022"
+	},
+	{
+		"vendedor": "Uma de Abreu",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 685.83,
+		"desconto": 186.58,
+		"custo": 610.96,
+		"data": "24/06/2022"
+	},
+	{
+		"vendedor": "Lara Castro",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": "1,296.03",
+		"desconto": 12.57,
+		"custo": 308.87,
+		"data": "15/04/2024"
+	},
+	{
+		"vendedor": "Drake Braga",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 383.72,
+		"desconto": 340.20,
+		"custo": 205.56,
+		"data": "22/04/2023"
+	},
+	{
+		"vendedor": "Yuli Peixoto",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 893.06,
+		"desconto": 132.55,
+		"custo": "1,125.11",
+		"data": "03/09/2023"
+	},
+	{
+		"vendedor": "Addison Custodio",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": "1,379.28",
+		"desconto": 131.79,
+		"custo": 120.33,
+		"data": "24/11/2023"
+	},
+	{
+		"vendedor": "Adrian Machado",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 798.52,
+		"desconto": 147.84,
+		"custo": "1,016.67",
+		"data": "31/03/2024"
+	},
+	{
+		"vendedor": "Kato Das Chagas",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 471.30,
+		"desconto": 277.85,
+		"custo": 656.23,
+		"data": "05/12/2023"
+	},
+	{
+		"vendedor": "Leandra Santos",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 536.47,
+		"desconto": 202.17,
+		"custo": 737.76,
+		"data": "20/11/2022"
+	},
+	{
+		"vendedor": "Quin Chagas",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 767.77,
+		"desconto": 257.63,
+		"custo": 464.95,
+		"data": "25/12/2022"
+	},
+	{
+		"vendedor": "Iola Faria",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 690.03,
+		"desconto": 10.40,
+		"custo": 435.10,
+		"data": "12/07/2022"
+	},
+	{
+		"vendedor": "Ocean Garcia",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,392.60",
+		"desconto": 279.77,
+		"custo": 235.80,
+		"data": "09/05/2022"
+	},
+	{
+		"vendedor": "Trevor Teixeira",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": "1,494.30",
+		"desconto": 38.30,
+		"custo": 619.51,
+		"data": "02/01/2024"
+	},
+	{
+		"vendedor": "Doris Feitosa",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": "1,486.03",
+		"desconto": 187.67,
+		"custo": 769.03,
+		"data": "07/09/2023"
+	},
+	{
+		"vendedor": "Brynne Caetano",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": 958.77,
+		"desconto": 120.72,
+		"custo": 771.47,
+		"data": "12/12/2023"
+	},
+	{
+		"vendedor": "Meghan de Barros",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,161.03",
+		"desconto": 113.09,
+		"custo": 810.96,
+		"data": "29/08/2022"
+	},
+	{
+		"vendedor": "Abra Pinto",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 822.58,
+		"desconto": 160.59,
+		"custo": 376.82,
+		"data": "10/08/2022"
+	},
+	{
+		"vendedor": "Lyle Inacio",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": "1,271.90",
+		"desconto": 190.38,
+		"custo": 609.03,
+		"data": "19/03/2023"
+	},
+	{
+		"vendedor": "Aretha Moraes",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,475.35",
+		"desconto": 13.44,
+		"custo": 807.85,
+		"data": "11/10/2023"
+	},
+	{
+		"vendedor": "Arden Almeida",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,135.91",
+		"desconto": 237.63,
+		"custo": 649.33,
+		"data": "17/10/2022"
+	},
+	{
+		"vendedor": "Lester de Castro",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 182.70,
+		"desconto": 215.89,
+		"custo": 425.08,
+		"data": "07/08/2022"
+	},
+	{
+		"vendedor": "Dai Pereira",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 582.77,
+		"desconto": 324.53,
+		"custo": 277.42,
+		"data": "18/07/2023"
+	},
+	{
+		"vendedor": "Graham Ferreira",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": 346.22,
+		"desconto": 202.97,
+		"custo": 919.48,
+		"data": "08/07/2023"
+	},
+	{
+		"vendedor": "Penelope Camargo",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": 295.63,
+		"desconto": 235.23,
+		"custo": 597.02,
+		"data": "19/02/2024"
+	},
+	{
+		"vendedor": "Gregory Gomes",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": "1,095.25",
+		"desconto": 51.28,
+		"custo": 217.66,
+		"data": "28/05/2023"
+	},
+	{
+		"vendedor": "Autumn Azevedo",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 423.75,
+		"desconto": 138.83,
+		"custo": 958.80,
+		"data": "17/10/2023"
+	},
+	{
+		"vendedor": "Mufutau Sousa",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 30,
+		"venda": "1,203.94",
+		"desconto": 253.03,
+		"custo": 538.79,
+		"data": "24/02/2023"
+	},
+	{
+		"vendedor": "Ian da Cunha",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": 202.04,
+		"desconto": 270.06,
+		"custo": "1,082.80",
+		"data": "14/11/2023"
+	},
+	{
+		"vendedor": "Buckminster Amorim",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 889.85,
+		"desconto": 105.29,
+		"custo": 164.90,
+		"data": "02/11/2023"
+	},
+	{
+		"vendedor": "Alika Lemos",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 848.79,
+		"desconto": 190.94,
+		"custo": 117.23,
+		"data": "25/12/2023"
+	},
+	{
+		"vendedor": "Jin Freire",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 977.89,
+		"desconto": 162.64,
+		"custo": 108.80,
+		"data": "22/09/2023"
+	},
+	{
+		"vendedor": "Leah Tavares",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 454.68,
+		"desconto": 330.95,
+		"custo": "1,034.65",
+		"data": "14/01/2024"
+	},
+	{
+		"vendedor": "Dustin Lima",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 393.50,
+		"desconto": 187.95,
+		"custo": 685.68,
+		"data": "18/11/2022"
+	},
+	{
+		"vendedor": "Jerome Campos",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 674.24,
+		"desconto": 154.83,
+		"custo": 785.55,
+		"data": "24/11/2023"
+	},
+	{
+		"vendedor": "Jaden de Brito",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": "1,252.37",
+		"desconto": 297.14,
+		"custo": 788.93,
+		"data": "20/07/2022"
+	},
+	{
+		"vendedor": "Eaton Barreto",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 667.54,
+		"desconto": 215.73,
+		"custo": 563.84,
+		"data": "18/11/2022"
+	},
+	{
+		"vendedor": "Honorato Garcia",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": 573.67,
+		"desconto": 17.80,
+		"custo": 437.54,
+		"data": "16/03/2023"
+	},
+	{
+		"vendedor": "Ethan Nonato",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 369.78,
+		"desconto": 309.06,
+		"custo": 424.38,
+		"data": "28/01/2024"
+	},
+	{
+		"vendedor": "Aretha Alves",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 907.50,
+		"desconto": 54.10,
+		"custo": 250.52,
+		"data": "22/09/2023"
+	},
+	{
+		"vendedor": "Tyrone Coutinho",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 23,
+		"venda": "1,099.50",
+		"desconto": 2.60,
+		"custo": 99.71,
+		"data": "01/03/2024"
+	},
+	{
+		"vendedor": "Myles Antunes",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 26,
+		"venda": 117.29,
+		"desconto": 50.91,
+		"custo": 465.18,
+		"data": "13/05/2023"
+	},
+	{
+		"vendedor": "Keefe Camargo",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 22,
+		"venda": 790.45,
+		"desconto": 46.73,
+		"custo": 483.54,
+		"data": "23/03/2023"
+	},
+	{
+		"vendedor": "Alexander Chaves",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": 922.95,
+		"desconto": 338.50,
+		"custo": 579.55,
+		"data": "26/02/2024"
+	},
+	{
+		"vendedor": "Hermione Marinho",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 923.90,
+		"desconto": 73.63,
+		"custo": 943.70,
+		"data": "11/03/2023"
+	},
+	{
+		"vendedor": "Mason Maia",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,399.89",
+		"desconto": 105.22,
+		"custo": 747.37,
+		"data": "05/03/2024"
+	},
+	{
+		"vendedor": "Emi Mendonca",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": "1,400.28",
+		"desconto": 168.36,
+		"custo": 252.84,
+		"data": "16/01/2024"
+	},
+	{
+		"vendedor": "Felix Camargo",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 102.05,
+		"desconto": 161.81,
+		"custo": 805.50,
+		"data": "16/10/2023"
+	},
+	{
+		"vendedor": "Martin Cabral",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,146.44",
+		"desconto": 51.37,
+		"custo": 423.47,
+		"data": "28/11/2023"
+	},
+	{
+		"vendedor": "Francis Machado",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": "1,419.76",
+		"desconto": 22.90,
+		"custo": 802.93,
+		"data": "25/02/2024"
+	},
+	{
+		"vendedor": "Coby Franca",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": "1,361.40",
+		"desconto": 166.74,
+		"custo": 636.46,
+		"data": "30/10/2022"
+	},
+	{
+		"vendedor": "Lee Antunes",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": 326.59,
+		"desconto": 97.46,
+		"custo": 702.77,
+		"data": "06/04/2024"
+	},
+	{
+		"vendedor": "Burton Matias",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": 181.25,
+		"desconto": 305.34,
+		"custo": 478.58,
+		"data": "12/06/2023"
+	},
+	{
+		"vendedor": "Barbara Antunes",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 596.77,
+		"desconto": 13.10,
+		"custo": 965.94,
+		"data": "14/03/2023"
+	},
+	{
+		"vendedor": "Gemma da Cruz",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 653.00,
+		"desconto": 386.20,
+		"custo": 601.42,
+		"data": "16/02/2024"
+	},
+	{
+		"vendedor": "Harriet Coelho",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": 726.17,
+		"desconto": 256.27,
+		"custo": 745.40,
+		"data": "27/08/2023"
+	},
+	{
+		"vendedor": "Imogene da Silveira",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 1,
+		"venda": 506.18,
+		"desconto": 60.83,
+		"custo": 441.87,
+		"data": "18/02/2024"
+	},
+	{
+		"vendedor": "Nadine Xavier",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 165.00,
+		"desconto": 58.38,
+		"custo": 410.71,
+		"data": "24/11/2022"
+	},
+	{
+		"vendedor": "Keelie Henrique",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": "1,438.67",
+		"desconto": 308.96,
+		"custo": 775.18,
+		"data": "24/08/2023"
+	},
+	{
+		"vendedor": "Hashim Chaves",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 877.95,
+		"desconto": 167.57,
+		"custo": 491.46,
+		"data": "17/12/2023"
+	},
+	{
+		"vendedor": "Demetrius Torres",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 728.45,
+		"desconto": 44.91,
+		"custo": 470.92,
+		"data": "10/07/2022"
+	},
+	{
+		"vendedor": "TaShya Sousa",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 30,
+		"venda": 513.06,
+		"desconto": 375.90,
+		"custo": 994.30,
+		"data": "30/07/2023"
+	},
+	{
+		"vendedor": "Timon Coutinho",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 13,
+		"venda": "1,176.04",
+		"desconto": 141.90,
+		"custo": 117.84,
+		"data": "20/11/2022"
+	},
+	{
+		"vendedor": "Ignatius de Araujo",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": 208.26,
+		"desconto": 29.87,
+		"custo": "1,000.24",
+		"data": "14/07/2022"
+	},
+	{
+		"vendedor": "Gay Nogueira",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": "1,248.36",
+		"desconto": 339.27,
+		"custo": 270.14,
+		"data": "25/07/2023"
+	},
+	{
+		"vendedor": "Emi Cabral",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": "1,253.43",
+		"desconto": 183.44,
+		"custo": 510.59,
+		"data": "17/03/2024"
+	},
+	{
+		"vendedor": "Gareth Ramos",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 706.59,
+		"desconto": 317.10,
+		"custo": 310.19,
+		"data": "29/09/2023"
+	},
+	{
+		"vendedor": "Gay Chagas",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 656.13,
+		"desconto": 214.32,
+		"custo": 855.03,
+		"data": "01/04/2023"
+	},
+	{
+		"vendedor": "Courtney Silva",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 627.16,
+		"desconto": 343.76,
+		"custo": 790.35,
+		"data": "30/01/2023"
+	},
+	{
+		"vendedor": "Henry Muniz",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 721.06,
+		"desconto": 251.01,
+		"custo": 271.19,
+		"data": "22/01/2023"
+	},
+	{
+		"vendedor": "Uma Silva",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": 942.87,
+		"desconto": 269.50,
+		"custo": 950.14,
+		"data": "26/09/2022"
+	},
+	{
+		"vendedor": "Wynne Das Chagas",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 778.22,
+		"desconto": 317.77,
+		"custo": 229.15,
+		"data": "07/09/2022"
+	},
+	{
+		"vendedor": "Burke Rosa",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 294.63,
+		"desconto": 208.24,
+		"custo": 645.76,
+		"data": "22/04/2024"
+	},
+	{
+		"vendedor": "Vanna Firmino",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": 882.65,
+		"desconto": 201.81,
+		"custo": "1,142.19",
+		"data": "23/07/2022"
+	},
+	{
+		"vendedor": "Velma Vaz",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,216.91",
+		"desconto": 33.82,
+		"custo": 601.99,
+		"data": "20/12/2022"
+	},
+	{
+		"vendedor": "Griffith Domingos",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": 881.30,
+		"desconto": 210.02,
+		"custo": 902.33,
+		"data": "26/10/2023"
+	},
+	{
+		"vendedor": "Rhonda Pinto",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": 918.77,
+		"desconto": 270.04,
+		"custo": 761.19,
+		"data": "22/06/2022"
+	},
+	{
+		"vendedor": "Nina Borges",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": "1,009.00",
+		"desconto": 152.31,
+		"custo": 218.88,
+		"data": "26/02/2023"
+	},
+	{
+		"vendedor": "Elizabeth Sousa",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 882.67,
+		"desconto": 86.67,
+		"custo": "1,016.09",
+		"data": "14/12/2023"
+	},
+	{
+		"vendedor": "Norman Moreira",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 638.07,
+		"desconto": 253.31,
+		"custo": 855.88,
+		"data": "29/04/2023"
+	},
+	{
+		"vendedor": "Cameron Monteiro",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 174.72,
+		"desconto": 295.35,
+		"custo": 134.70,
+		"data": "27/04/2024"
+	},
+	{
+		"vendedor": "Drew Sampaio",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 962.22,
+		"desconto": 57.61,
+		"custo": 403.86,
+		"data": "10/02/2023"
+	},
+	{
+		"vendedor": "Bo Miranda",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 748.36,
+		"desconto": 133.20,
+		"custo": "1,013.74",
+		"data": "17/12/2022"
+	},
+	{
+		"vendedor": "Tamara Carneiro",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": 547.75,
+		"desconto": 99.33,
+		"custo": 759.12,
+		"data": "01/02/2024"
+	},
+	{
+		"vendedor": "Thaddeus de Sousa",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 378.88,
+		"desconto": 46.51,
+		"custo": 118.16,
+		"data": "20/04/2023"
+	},
+	{
+		"vendedor": "Isaiah Vasconcelos",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 217.90,
+		"desconto": 196.58,
+		"custo": "1,129.86",
+		"data": "01/01/2023"
+	},
+	{
+		"vendedor": "Carl Morais",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 490.66,
+		"desconto": 205.53,
+		"custo": 99.74,
+		"data": "15/07/2022"
+	},
+	{
+		"vendedor": "Geoffrey Diniz",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 30,
+		"venda": 157.65,
+		"desconto": 365.54,
+		"custo": 138.29,
+		"data": "11/04/2023"
+	},
+	{
+		"vendedor": "Dennis Bento",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": "1,281.24",
+		"desconto": 6.72,
+		"custo": "1,120.87",
+		"data": "18/12/2022"
+	},
+	{
+		"vendedor": "Zephr de Moraes",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": 696.49,
+		"desconto": 265.20,
+		"custo": 831.88,
+		"data": "06/07/2023"
+	},
+	{
+		"vendedor": "Jaquelyn Cardoso",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 253.33,
+		"desconto": 75.30,
+		"custo": 594.51,
+		"data": "26/08/2023"
+	},
+	{
+		"vendedor": "Cullen Leal",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 353.99,
+		"desconto": 317.22,
+		"custo": 356.90,
+		"data": "30/05/2023"
+	},
+	{
+		"vendedor": "Sara Mendes",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": "1,020.04",
+		"desconto": 18.04,
+		"custo": 121.60,
+		"data": "08/01/2023"
+	},
+	{
+		"vendedor": "Alexander Braga",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 548.88,
+		"desconto": 303.27,
+		"custo": 752.16,
+		"data": "19/01/2024"
+	},
+	{
+		"vendedor": "Quinlan Correia",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 3,
+		"venda": "1,497.95",
+		"desconto": 330.18,
+		"custo": 262.84,
+		"data": "11/01/2024"
+	},
+	{
+		"vendedor": "Kristen Santana",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 25,
+		"venda": 147.67,
+		"desconto": 181.84,
+		"custo": 166.93,
+		"data": "03/09/2022"
+	},
+	{
+		"vendedor": "Quynn Azevedo",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": 871.12,
+		"desconto": 285.69,
+		"custo": 499.36,
+		"data": "02/07/2022"
+	},
+	{
+		"vendedor": "David Bastos",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 18,
+		"venda": "1,072.08",
+		"desconto": 278.63,
+		"custo": 748.95,
+		"data": "14/06/2023"
+	},
+	{
+		"vendedor": "Uma Domingos",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 19,
+		"venda": 137.44,
+		"desconto": 73.17,
+		"custo": 102.55,
+		"data": "03/05/2023"
+	},
+	{
+		"vendedor": "September Braga",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 548.65,
+		"desconto": 292.19,
+		"custo": 978.87,
+		"data": "18/01/2024"
+	},
+	{
+		"vendedor": "TaShya Vaz",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 691.93,
+		"desconto": 114.42,
+		"custo": 609.14,
+		"data": "22/07/2022"
+	},
+	{
+		"vendedor": "Lucius Feitosa",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 20,
+		"venda": 127.94,
+		"desconto": 233.07,
+		"custo": "1,026.25",
+		"data": "02/07/2023"
+	},
+	{
+		"vendedor": "Allen da Cruz",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 27,
+		"venda": 273.97,
+		"desconto": 137.16,
+		"custo": 300.67,
+		"data": "21/03/2024"
+	},
+	{
+		"vendedor": "Byron Rosa",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 560.68,
+		"desconto": 162.07,
+		"custo": 712.58,
+		"data": "09/01/2024"
+	},
+	{
+		"vendedor": "Hop Coelho",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": "1,322.12",
+		"desconto": 256.93,
+		"custo": 259.13,
+		"data": "05/05/2022"
+	},
+	{
+		"vendedor": "August Dantas",
+		"regiao": "Bahia",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": "1,179.36",
+		"desconto": 374.39,
+		"custo": 583.64,
+		"data": "23/07/2023"
+	},
+	{
+		"vendedor": "Keely Gonçalves",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": "1,217.83",
+		"desconto": 65.51,
+		"custo": "1,075.64",
+		"data": "25/10/2023"
+	},
+	{
+		"vendedor": "Ezra de Abreu",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 803.58,
+		"desconto": 322.16,
+		"custo": 552.86,
+		"data": "31/03/2023"
+	},
+	{
+		"vendedor": "Idona Cabral",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": "1,149.65",
+		"desconto": 199.76,
+		"custo": 739.26,
+		"data": "06/08/2022"
+	},
+	{
+		"vendedor": "Porter da Costa",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 257.70,
+		"desconto": 262.27,
+		"custo": 621.84,
+		"data": "31/03/2024"
+	},
+	{
+		"vendedor": "Eagan Paiva",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 30,
+		"venda": "1,076.98",
+		"desconto": 77.13,
+		"custo": 253.89,
+		"data": "22/05/2022"
+	},
+	{
+		"vendedor": "Gwendolyn Souza",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 17,
+		"venda": 910.24,
+		"desconto": 17.08,
+		"custo": 232.05,
+		"data": "15/11/2022"
+	},
+	{
+		"vendedor": "Alvin Rezende",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 29,
+		"venda": "1,383.10",
+		"desconto": 333.74,
+		"custo": "1,038.81",
+		"data": "28/04/2024"
+	},
+	{
+		"vendedor": "Germaine de Andrade",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": 670.95,
+		"desconto": 26.09,
+		"custo": 160.61,
+		"data": "08/10/2022"
+	},
+	{
+		"vendedor": "Dora Gomes",
+		"regiao": "Rio Grande do Sul",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 859.29,
+		"desconto": 174.91,
+		"custo": 663.14,
+		"data": "19/04/2024"
+	},
+	{
+		"vendedor": "Travis do Carmo",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 730.06,
+		"desconto": 21.61,
+		"custo": 632.97,
+		"data": "25/08/2023"
+	},
+	{
+		"vendedor": "Yardley Torres",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 9,
+		"venda": 998.33,
+		"desconto": 266.74,
+		"custo": 844.54,
+		"data": "18/12/2023"
+	},
+	{
+		"vendedor": "Nehru Braga",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 15,
+		"venda": "1,224.45",
+		"desconto": 86.36,
+		"custo": 307.59,
+		"data": "12/12/2022"
+	},
+	{
+		"vendedor": "Signe Santos",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,106.01",
+		"desconto": 66.14,
+		"custo": 290.89,
+		"data": "08/09/2022"
+	},
+	{
+		"vendedor": "Carson Bezerra",
+		"regiao": "Rio de Janeiro",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": 370.07,
+		"desconto": 45.66,
+		"custo": 494.75,
+		"data": "26/11/2022"
+	},
+	{
+		"vendedor": "Quynn Araujo",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 825.12,
+		"desconto": 296.00,
+		"custo": 975.83,
+		"data": "16/09/2022"
+	},
+	{
+		"vendedor": "Hadassah Aguiar",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 12,
+		"venda": 339.78,
+		"desconto": 85.06,
+		"custo": 666.91,
+		"data": "11/08/2022"
+	},
+	{
+		"vendedor": "Amy de Barros",
+		"regiao": "Paraná",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,410.50",
+		"desconto": 178.38,
+		"custo": 777.04,
+		"data": "09/10/2022"
+	},
+	{
+		"vendedor": "Yoko de Lourdes",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 11,
+		"venda": 428.77,
+		"desconto": 290.78,
+		"custo": 342.59,
+		"data": "21/11/2022"
+	},
+	{
+		"vendedor": "Wyatt Teles",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 16,
+		"venda": 525.60,
+		"desconto": 305.49,
+		"custo": 536.52,
+		"data": "11/09/2022"
+	},
+	{
+		"vendedor": "Upton Das Chagas",
+		"regiao": "Pará",
+		"pais": "Brazil",
+		"produtos": 14,
+		"venda": "1,250.23",
+		"desconto": 272.10,
+		"custo": "1,082.62",
+		"data": "20/11/2023"
+	},
+	{
+		"vendedor": "Wang Teodoro",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 341.92,
+		"desconto": 268.21,
+		"custo": 525.05,
+		"data": "28/03/2024"
+	},
+	{
+		"vendedor": "Raphael Franca",
+		"regiao": "Minas Gerais",
+		"pais": "Brazil",
+		"produtos": 8,
+		"venda": "1,494.08",
+		"desconto": 36.56,
+		"custo": 738.70,
+		"data": "02/12/2022"
+	},
+	{
+		"vendedor": "Cullen de Castro",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 10,
+		"venda": 862.25,
+		"desconto": 150.99,
+		"custo": 832.20,
+		"data": "11/08/2022"
+	},
+	{
+		"vendedor": "Keaton de Brito",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 959.07,
+		"desconto": 262.27,
+		"custo": 179.96,
+		"data": "13/06/2023"
+	},
+	{
+		"vendedor": "Autumn Almeida",
+		"regiao": "Ceará",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": 684.90,
+		"desconto": 9.35,
+		"custo": 640.84,
+		"data": "09/09/2023"
+	},
+	{
+		"vendedor": "Lionel Gonzaga",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 5,
+		"venda": 710.77,
+		"desconto": 50.58,
+		"custo": 923.87,
+		"data": "27/01/2024"
+	},
+	{
+		"vendedor": "Tatum Martins",
+		"regiao": "Pernambuco",
+		"pais": "Brazil",
+		"produtos": 24,
+		"venda": "1,043.02",
+		"desconto": 350.56,
+		"custo": 990.05,
+		"data": "15/03/2024"
+	},
+	{
+		"vendedor": "Damian Ferreira",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 28,
+		"venda": 366.46,
+		"desconto": 310.16,
+		"custo": "1,108.92",
+		"data": "28/02/2023"
+	},
+	{
+		"vendedor": "Nicholas Bispo",
+		"regiao": "Maranhão",
+		"pais": "Brazil",
+		"produtos": 2,
+		"venda": "1,316.38",
+		"desconto": 291.44,
+		"custo": 682.10,
+		"data": "31/07/2022"
+	},
+	{
+		"vendedor": "Arden Sales",
+		"regiao": "Goiás",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": 214.35,
+		"desconto": 99.53,
+		"custo": 704.38,
+		"data": "27/03/2023"
+	},
+	{
+		"vendedor": "Ashely de Abreu",
+		"regiao": "São Paulo",
+		"pais": "Brazil",
+		"produtos": 4,
+		"venda": 273.57,
+		"desconto": 168.90,
+		"custo": 110.09,
+		"data": "11/06/2023"
+	},
+	{
+		"vendedor": "Vernon Campos",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 21,
+		"venda": "1,061.92",
+		"desconto": 242.22,
+		"custo": 172.19,
+		"data": "25/12/2022"
+	},
+	{
+		"vendedor": "Latifah Silva",
+		"regiao": "Santa Catarina",
+		"pais": "Brazil",
+		"produtos": 7,
+		"venda": 146.67,
+		"desconto": 163.17,
+		"custo": 178.12,
+		"data": "17/06/2022"
+	},
+	{
+		"vendedor": "Sandra Ramos",
+		"regiao": "Paraíba",
+		"pais": "Brazil",
+		"produtos": 6,
+		"venda": "1,437.21",
+		"desconto": 381.34,
+		"custo": 462.78,
+		"data": "13/01/2024"
+	}
+]
