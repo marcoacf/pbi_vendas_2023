@@ -7,9 +7,9 @@ exemplo de metricas para segmentação de indicadores, calendário, etc
 
 ## Arquivos:
 
- - vendas-2023-04-29.json - base de dados, com 500 registros, criada no site [generatedata.com](https://generatedata.com/)
+ - [vendas-2023-04-29.json](https://github.com/marcoacf/pbi_vendas_2023/blob/main/vendas-2023-04-29.json) - base de dados, com 500 registros, criada no site [generatedata.com](https://generatedata.com/)
 
- - vendas-2023-0-04-29.pbix - modelo Power BI com a modelagem DAX
+ - [vendas-2023-0-04-29.pbix](https://github.com/marcoacf/pbi_vendas_2023/blob/main/vendas-2023-0-04-29.pbix) - modelo Power BI com a modelagem DAX
 
  
  
